@@ -1,0 +1,1 @@
+scoreboard players set @e[tag=plaent] gravestormtime 100

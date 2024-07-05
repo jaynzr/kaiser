@@ -1,0 +1,1 @@
+execute at @s run tag @e[type=sheep,distance=..50] add throwsheep

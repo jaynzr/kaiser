@@ -1,0 +1,16 @@
+scoreboard objectives add plaenttiptime dummy
+scoreboard objectives add plaentroottime dummy
+scoreboard objectives add plaentrootsummon dummy
+scoreboard objectives add helth dummy
+scoreboard objectives add roothit dummy
+scoreboard objectives add roothitcd dummy
+scoreboard objectives add rootlast dummy
+scoreboard objectives add zombcount dummy
+scoreboard objectives add rotgrow dummy
+scoreboard objectives add plaentspawntimer dummy
+scoreboard objectives add gravetideint dummy
+scoreboard objectives add gravestormtime dummy
+scoreboard objectives add tidezombielast dummy
+scoreboard objectives add tidezombcount dummy
+scoreboard objectives add zombieexplodetimer dummy
+scoreboard objectives add plaentsporelast dummy
