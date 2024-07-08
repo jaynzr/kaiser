@@ -1,3 +1,0 @@
-execute as @e[type=salmon,tag=spawned] at @s unless entity @e[tag=wurm,distance=..10] unless entity @e[tag=fakewurm,distance=..10] store result score @s rando run random value 1..10
-execute as @e[type=salmon,tag=spawned] at @s if score @s rando matches 7..9 if biome ~ ~ ~ #is_deep_ocean run tag @s add fakewurmsumm
-execute as @e[type=salmon,tag=spawned] at @s if score @s rando matches 10 if biome ~ ~ ~ #is_deep_ocean run tag @s add wurmsumm
